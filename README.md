@@ -15,3 +15,9 @@ You know all that boring state machine stuff? Yeah, we got you covered. Sprite d
 * Base entity class
 * An example player entity. Nothing fancy, but shows how the animations work.
 * Two example scenes. This is to demonstrate scene switching using the scene manager
+
+### What doesn't it do?
+
+Quite a lot really. Most notably, Physics. Yes the example player entity can move left and right, but that is just to demonstrate animations.
+I really only wanted to add the basics to this project. This gives you the mundane, necessity barebones, but the flexibility to add lots of other stuff on top yourself.
+I may look at adding a new version with configurable physics, while keeping this one in tact. 
